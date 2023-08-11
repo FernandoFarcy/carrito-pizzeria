@@ -3,7 +3,7 @@
       "id": 1,
       "nombre": "Fugazeta con morrones",
       "descripcion": "Cebolla rellena de Jamon cocido y Muzzarella con morrones",
-      "precio": 50,
+      "precio": 2550,
       "img":
       "./img/fugazeta-con-morrones.jpg",
       "cantidad": 1
@@ -12,7 +12,7 @@
       "id": 2,
       "nombre": "Fugazeta con huevo",
       "descripcion": "Cebolla rellena de Jamon cocido y Muzzarella con Huevos",
-      "precio": 100,
+      "precio": 2550,
       "img":
         "./img/fugazeta-con-huevo.jpg",
       "cantidad": 1
@@ -21,7 +21,7 @@
       "id": 3,
       "nombre": "Cantimpalo",
       "descripcion": "Salsa tomate, muzzarella y cantimpalo con aceitunas negras",
-      "precio": 150,
+      "precio": 2000,
       "img":
         "./img/chorizo-colorado.jpg",
       "cantidad": 1
@@ -30,7 +30,7 @@
       "id": 4,
       "nombre": "Cantimpalo con huevo",
       "descripcion": "Salsa tomate, muzzarella y cantimpalo con huevo y aceitunas negras",
-      "precio": 200,
+      "precio": 2000,
       "img":
         "./img/chorizo-colorado-huevo.jpg",
       "cantidad": 1
@@ -39,7 +39,7 @@
       "id": 5,
       "nombre": "Jamon y morrones",
       "descripcion": "Salsa de tomate, muzzarella y jamon cocido con morrones",
-      "precio": 200,
+      "precio": 2050,
       "img":
         "./img/jamon-y-morrones.jpg",
       "cantidad": 1
@@ -48,7 +48,7 @@
       "id": 6,
       "nombre": "Jamon y huevo duro",
       "descripcion": "Salsa de tomate, muzzarella y jamon cocido con huevo duro",
-      "precio": 200,
+      "precio": 2050,
       "img":
         "./img/jamon-y-huevo.jpg",
       "cantidad": 1
@@ -57,7 +57,7 @@
       "id": 7,
       "nombre": "Muzzarella",
       "descripcion": "Salsa de tomate y mozzarella con aceitunas",
-      "precio": 200,
+      "precio": 1500,
       "img":
         "./img/muzzarella.jpg",
       "cantidad": 1
@@ -67,7 +67,7 @@
       "id": 8,
       "nombre": "Jamon crudo",
       "descripcion": "Salsa de tomate, muzzarella y Jamon crudo con rucula y queso rallado",
-      "precio": 200,
+      "precio": 2600,
       "img":
         "./img/crudo-rucula-rallado.jpg",
       "cantidad": 1
@@ -78,7 +78,7 @@
         "id": 9,
         "nombre": "Napolitana",
         "descripcion": "Salsa de tomate, muzzarella y tomate en rodajas con ajo, queso rallado y albahaca ",
-        "precio": 200,
+        "precio": 2200,
         "img":
           "./img/napolitana.jpg",
         "cantidad": 1
