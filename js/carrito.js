@@ -1,4 +1,6 @@
 
+
+
 /*** refresco en la pantalla el carrito   */
 const pintarCarrito = () =>{
   modalContainer.innerHTML = "";

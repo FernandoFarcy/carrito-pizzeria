@@ -67,7 +67,7 @@ const getProducts = async () => {
           cantidad: product.cantidad,
         });
     }
-      // console.log(carrito);
+      
 
       /*** cuento los productos */
       carritoCounter();
