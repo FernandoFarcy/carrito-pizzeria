@@ -5,7 +5,7 @@
       "descripcion": "Cebolla rellena de Jamon cocido y Muzzarella con morrones",
       "precio": 50,
       "img":
-      "/img/fugazeta-con-morrones.jpg",
+      "./img/fugazeta-con-morrones.jpg",
       "cantidad": 1
     },
     {
@@ -14,7 +14,7 @@
       "descripcion": "Cebolla rellena de Jamon cocido y Muzzarella con Huevos",
       "precio": 100,
       "img":
-        "/img/fugazeta-con-huevo.jpg",
+        "./img/fugazeta-con-huevo.jpg",
       "cantidad": 1
     },
     {
@@ -23,7 +23,7 @@
       "descripcion": "Salsa tomate, muzzarella y cantimpalo con aceitunas negras",
       "precio": 150,
       "img":
-        "/img/chorizo-colorado.jpg",
+        "./img/chorizo-colorado.jpg",
       "cantidad": 1
     },
     {
@@ -32,7 +32,7 @@
       "descripcion": "Salsa tomate, muzzarella y cantimpalo con huevo y aceitunas negras",
       "precio": 200,
       "img":
-        "/img/chorizo-colorado-huevo.jpg",
+        "./img/chorizo-colorado-huevo.jpg",
       "cantidad": 1
     },
     {
@@ -41,7 +41,7 @@
       "descripcion": "Salsa de tomate, muzzarella y jamon cocido con morrones",
       "precio": 200,
       "img":
-        "/img/jamon-y-morrones.jpg",
+        "./img/jamon-y-morrones.jpg",
       "cantidad": 1
     },
     {
@@ -50,7 +50,7 @@
       "descripcion": "Salsa de tomate, muzzarella y jamon cocido con huevo duro",
       "precio": 200,
       "img":
-        "/img/jamon-y-huevo.jpg",
+        "./img/jamon-y-huevo.jpg",
       "cantidad": 1
     },
     {
@@ -59,7 +59,7 @@
       "descripcion": "Salsa de tomate y mozzarella con aceitunas",
       "precio": 200,
       "img":
-        "/img/muzzarella.jpg",
+        "./img/muzzarella.jpg",
       "cantidad": 1
     },
 
@@ -69,7 +69,7 @@
       "descripcion": "Salsa de tomate, muzzarella y Jamon crudo con rucula y queso rallado",
       "precio": 200,
       "img":
-        "/img/crudo-rucula-rallado.jpg",
+        "./img/crudo-rucula-rallado.jpg",
       "cantidad": 1
     },
 
@@ -80,7 +80,7 @@
         "descripcion": "Salsa de tomate, muzzarella y tomate en rodajas con ajo, queso rallado y albahaca ",
         "precio": 200,
         "img":
-          "/img/napolitana.jpg",
+          "./img/napolitana.jpg",
         "cantidad": 1
       }
 ]
