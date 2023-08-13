@@ -107,14 +107,14 @@ const pintarCarrito = () =>{
       if (result.isConfirmed) {
           eliminarProducto(product.id);
           Toastify({
-            className: "toastPizaBorrada",
+            className: "toastPizzaBorrada",
             text: "Pizza borrada",
             duration: 2000,
             position: 'center',
              style: {
               background: "#e30808",
               fontWeight: "bold",
-              
+
               marginTop: "15rem",
               height: "8rem",
               borderRadius: "100%",
