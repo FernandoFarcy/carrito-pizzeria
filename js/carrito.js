@@ -82,8 +82,6 @@ const pintarCarrito = () =>{
           style: {
             background: 'linear-gradient(to left, #0a0101,#970707 )'
         }
-
-
         }).showToast();
       
 
@@ -108,11 +106,21 @@ const pintarCarrito = () =>{
   
       if (result.isConfirmed) {
           eliminarProducto(product.id);
-          Swal.fire({
-                title: 'Borrada!',
-                icon: 'success',
-                text: 'La pizza ha sido borrada'
-            })
+          Toastify({
+            className: "toastPizaBorrada",
+            text: "Pizza borrada",
+            duration: 2000,
+            position: 'center',
+             style: {
+              background: "#e30808",
+              fontWeight: "bold",
+              
+              marginTop: "15rem",
+              height: "8rem",
+              borderRadius: "100%",
+              
+          }
+          }).showToast();
         }
       })
     })

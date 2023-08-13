@@ -107,6 +107,7 @@ body {
   cursor: pointer;
   width: 100%;
   font-size: 18px;
+  
 }
 
 .card button:hover {
@@ -142,8 +143,7 @@ body {
   background-color: #700606ba;
   color: #fff;
   width: 100%;
-}
-
+  }
 .modal-header-title {
   justify-self: start;
 }
@@ -220,4 +220,19 @@ body {
   cursor: pointer;
 }
 
+
+.toastPizaBorrada{
+  width: 7rem;
+
+  display: flex;
+  font-size: 1.3rem;
+  text-align: center;
+  align-content:space-around ;
+  /* text-overflow: ellipsis; */
+  /* display: inline-block;
+  vertical-align: middle; */
+
+
+  
+}
 
